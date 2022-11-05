@@ -1,0 +1,159 @@
+#title {
+  background-color: #ff4c68
+
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+  padding-top: 150px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 2rem;
+
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  line-height: 3rem;
+  font-size: 2rem;
+}
+
+h5 {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  padding-top: 30px;
+}
+
+body {
+  font-family: 'Montserrat-thin', sans-serif;
+}
+
+.img-shadow {
+  transform: rotate(0.05turn);
+  padding-top: 30px;
+  position: relative;
+  right: 250px;
+}
+
+.container {
+padding: 3% 10% 100px 10%;
+
+}
+.img-shadow {
+  width: 23%;
+  position: absolute;
+  z-index: 1;
+}
+
+ /* Navagation bar */
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-family: 'montserrat-light', sans-serif;
+  font-size: 1.2rem;
+}
+
+/* Download buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+
+/* Page 2 */
+
+#features {
+  text-align: center;
+  padding: 12% 15%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+
+
+
+ #icon {
+   color: #ef8172;
+    font-size: 4rem;
+    margin-bottom: 13px;
+ }
+ #icon:hover {
+   color: #ff4c68;
+ }
+
+ /* Testamonial */
+
+ #testimonials {
+background-color: #ff4c68;
+ text-align: center;
+ color: #fff;
+ padding: 5% 10%;
+
+}
+.testimonials-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding: 10%;
+  font-size: 2rem;
+}
+.press-logo {
+  width: 6%;
+  margin: 20px 20px 50px;
+
+}
+
+#pricing {
+  text-align: center;
+  padding: 10% 10%;
+}
+
+.pricing-colum {
+padding: 3% 2%;
+}
+
+.social-icon {
+  padding: 7px;
+}
+
+@media (max-width: 1028px) {
+
+.title {
+  text-align: center;
+  padding: 0 3%;
+}
+
+.img-shadow {
+  position: static;
+transform: rotate(0turn);
+height: 500px;
+width: 236px;
+}
+h2 {
+  font-size: 25px;
+}
+}
+
+#cta {
+  background-color: white;
+  padding: 7% 5% 8% 5%;
+  text-align: center;
+  color: black;
+}
