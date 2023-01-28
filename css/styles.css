@@ -35,7 +35,7 @@ body {
 /* //here was shadow */
 /* This is the footer section do not move from here */
 .container-fluid{
-  padding: 7% 15%;
+  padding: 3% 15%;
   text-align: center;
 }
 /* This is the footer section do not move from here */
@@ -54,7 +54,7 @@ body {
     position: relative;
     height: 500px;
     transform: rotate(0);
-    padding: 0;
+    padding: 15px 0 0 0;
 
 
   }
