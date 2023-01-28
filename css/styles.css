@@ -33,12 +33,12 @@ body {
 }
 
 /* //here was shadow */
-/* This is the footer section to not move from here */
+/* This is the footer section do not move from here */
 .container-fluid{
   padding: 7% 15%;
   text-align: center;
 }
-/* This is the footer section to not move from here */
+/* This is the footer section do not move from here */
 
 .img-shadow {
   transform: rotate(0.05turn);
@@ -54,7 +54,7 @@ body {
     position: relative;
     height: 500px;
     transform: rotate(0);
-    padding: 0 0 40px;
+    padding: 0;
 
 
   }
